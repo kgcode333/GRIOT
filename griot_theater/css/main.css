@@ -1,0 +1,45 @@
+.featured-image{
+    height: 900px;
+    width:100%;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    background-image:url("../images/head.png") ;
+    margin-top: 0;
+}
+
+.show-text h1{
+    text-align: center;
+    margin-top: 20;
+    color: white;
+    margin-top: 0%;
+}
+
+nav {
+    background-color:black;
+    margin-bottom: 0%;
+}
+nav h1{
+    color: white;
+}
+nav a{
+text-align: center;
+color: white;
+}
+
+.show-item{
+    border-bottom: 2px solid black;
+    border-bottom-style: 5%;
+
+}
+
+.show-item p{
+    text-align: center;
+}
+.april{
+    border: 1px solid black;
+    background-color: lightgray;
+    padding-top: 2px;
+    border-width: 10px;
+}
